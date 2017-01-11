@@ -37,7 +37,7 @@ def visit_web():
 
 	
 def repeat_visit_web():
-	for i in xrange(int(noOfVisitsToBeDone)): # No. of times to revisit web
+	for i in xrange(int(noOfVisitsToBeDone)): # Number of times to revisit web
 		global noOfVisitsCompleted # Using global keyword to signify that assignment is done at a global scope
 		noOfVisitsCompleted = i+1 # xrange returns 0 index based numbers so to make them realistic for humans we add 1
 		print "Visit No. %d Started "% int(noOfVisitsCompleted) # Log message on visit start
