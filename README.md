@@ -32,7 +32,7 @@ python SleekWebBot.py
 
 If you have all the python - selenium environment prerequisites set, SleekWebBot will run and ask you a couple of questions which you should answer to enable the bot execute successfully as shown in the screenshot below.
 
-![Snapshot of SleekWebBot in action](https://github.com/kevinbazira/sleek-web-bot/blob/master/SleekWebBot_Sanpshot.jpg "SleekWebBot Snapshot")
+![Snapshot of SleekWebBot in action](https://github.com/kevinbazira/sleek-web-bot/blob/master/SleekWebBot_Snapshot.jpg "SleekWebBot Snapshot")
 
 Majorly what this program does is;
 
