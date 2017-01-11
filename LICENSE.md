@@ -1,4 +1,4 @@
-MIT License
+MIT License for SleekWebBot
 
 Copyright (c) 2017 Kevin Bazira 
 
