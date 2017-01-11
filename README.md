@@ -22,7 +22,7 @@ git clone https://github.com/kevinbazira/sleek-web-bot.git
 
 ## Usage
 
-##### Example of usage:
+### Example of usage:
 
 Run SleekWebBot in python
 
@@ -32,7 +32,7 @@ python SleekWebBot.py
 
 If you have all the python - selenium environment prerequisites set, SleekWebBot will run and ask you a couple of questions which you should answer to enable the bot execute successfully as shown in the screenshot below.
 
-![Snapshot of SleekWebBot in action](/relative/path/to/img.jpg?raw=true "SleekWebBot Snapshot")
+![Snapshot of SleekWebBot in action](https://github.com/kevinbazira/sleek-web-bot/blob/master/SleekWebBot_Sanpshot.jpg "SleekWebBot Snapshot")
 
 Majorly what this program does is;
 
@@ -57,7 +57,7 @@ The End-User assumes sole responsibility for anything resulting from the use or 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to this project.
+Please read [CONTRIBUTING.md](https://github.com/kevinbazira/sleek-web-bot/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to this project.
 
 ## License
 
