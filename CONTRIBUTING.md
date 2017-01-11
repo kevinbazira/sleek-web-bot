@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to SleekWebBot, which is hosted [here](https://github.com/sleek-web-bot) on GitHub.
+The following is a set of guidelines for contributing to SleekWebBot, which is hosted [here on Kevin Bazira's GitHub account](https://github.com/sleek-web-bot).
 These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 Just ensure your pull request adheres to the following guidelines:
