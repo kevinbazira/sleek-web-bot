@@ -44,4 +44,4 @@ def repeat_visit_web():
 		visit_web() # Call the visit_web function to visit specified website
 
 		
-repeat_visit_web()
+repeat_visit_web() # The initial call that starts the program
